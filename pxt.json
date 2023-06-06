@@ -1,5 +1,5 @@
 {
-    "name": "Press A",
+    "name": "Game",
     "description": "",
     "dependencies": {
         "core": "*",
